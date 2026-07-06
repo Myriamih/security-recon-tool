@@ -1,0 +1,10 @@
+# Fichiers de résultats
+*.csv
+*.txt
+
+# Base de données locale
+vuln_db.json
+
+# Cache Python et fichiers système
+__pycache__/
+.DS_Store
