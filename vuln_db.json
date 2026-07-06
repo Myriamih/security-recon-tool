@@ -1,0 +1,13 @@
+{
+    "OpenSSH": [
+        {"version": "8.9", "cve": "CVE-2023-XXXX: SSH Buffer Management Issue"},
+        {"version": "10.2", "cve": "CVE-2026-YYYY: Hypothetical Remote Code Execution"}
+    ],
+    "Apache": [
+        {"version": "2.4.50", "cve": "CVE-2021-41773: Path Traversal"},
+        {"version": "2.4.49", "cve": "CVE-2021-41773: Path Traversal"}
+    ],
+    "nginx": [
+        {"version": "1.18", "cve": "CVE-2022-41741: Memory Corruption"}
+    ]
+}
