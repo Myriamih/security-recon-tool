@@ -1,3 +1,0 @@
-Port 443: Closed
-Port 80: Closed
-Port 22: Filtered
